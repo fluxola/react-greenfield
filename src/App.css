@@ -1,0 +1,26 @@
+.App {
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.logo {
+  align-items: center;
+}
+
+.navbar-nav {
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.navbig {
+  border-bottom: 1px solid black
+}
+
+.nav-link {
+  color: black;
+}
+.carousel-item > img { 
+  width: 100%; 
+}
